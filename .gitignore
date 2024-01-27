@@ -3,3 +3,5 @@ model/*
 wandb/*
 
 *checkpoint*/*
+*causal-lm-training*/*
+*peft-*/*
